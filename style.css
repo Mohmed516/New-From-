@@ -23,7 +23,7 @@
        justify-content: center; 
        align-content: center; 
        background-color:var(--mainColor); 
-       background-attachment:scroll;
+       
      }
     
        form{
@@ -67,7 +67,7 @@
          border: none; 
        }
        .footer {
-         width: 250px; 
+         width: 280px; 
          padding: ; 
          margin: 10px auto; 
          display: flex;
