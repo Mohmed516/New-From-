@@ -27,7 +27,7 @@
      }
     
        form{
-        width:300px;
+        width:350px;
         height: 500px;
         margin:10px auto; 
         background-color:#DDA8531F;
@@ -52,7 +52,7 @@
         border-bottom-left-radius: 10px;
       }
        input {
-         width: 250px;
+         width: 300px;
          padding: 15px; 
          border-radius: 5px; 
          border: 1px solid #0000002E; 
@@ -67,8 +67,8 @@
          border: none; 
        }
        .footer {
-         width: 280px; 
-         padding: ; 
+         width: 300px; 
+         padding: 10px; 
          margin: 10px auto; 
          display: flex;
          justify-content: space-between; 
